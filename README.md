@@ -42,3 +42,7 @@ Run `npm install` once; after that, `npm test` is enough. At first most tests fa
 ## Viewing your pages
 
 Open the folder in VS Code, right-click `index.html`, and choose **Open with Live Server**.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Learning C# Step by Step",
+    "price": 29.99,
+    "image": "images/learning-csharp.svg",
+    "description": "A friendly first book on C#: variables, decisions, loops, methods and classes, with a small project at the end of every chapter."
+  },
+  {
+    "id": 2,
+    "title": "SQL for Everyone",
+    "price": 24.5,
+    "image": "images/sql-for-everyone.svg",
+    "description": "Ask a database questions and get answers. Starts with SELECT and builds up to joins, grouping and changing data, one clear example at a time."
+  },
+  {
+    "id": 3,
+    "title": "Web Pages from Scratch",
+    "price": 19.95,
+    "image": "images/web-pages-from-scratch.svg",
+    "description": "Build your first websites with HTML and CSS, then make them look great on every screen with Flexbox, Grid and Bootstrap."
+  },
+  {
+    "id": 4,
+    "title": "The Friendly Guide to Git",
+    "price": 15.0,
+    "image": "images/friendly-guide-to-git.svg",
+    "description": "Save every version of your work and never lose a change again. Commits, branches and GitHub, explained in plain words."
+  }
+]

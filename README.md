@@ -1,6 +1,6 @@
-# Practice: Bootstrap
+# Exercise: Bootstrap
 
-Practice files for the lesson **Practice: Bootstrap** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise files for the lesson **Exercise: Bootstrap** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 You'll build a four-page website for **BookNook**, an online bookstore, with Bootstrap 5.
 
